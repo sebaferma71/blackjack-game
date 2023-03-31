@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #5c8a49;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+h1 {
+    color: #e7ae1f;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    background-color: #e7ae1f;
+    color: #5c8a49;
+    width: 150px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 5px 0;
+    margin: 2px;
+}
